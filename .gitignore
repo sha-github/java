@@ -24,3 +24,4 @@
 #maven specific
 
 **/target/*
+/tokboxpoc/.sample
